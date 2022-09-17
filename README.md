@@ -1,27 +1,26 @@
-# TailwindManageAngular
+# Frontend Mentor - Manage Landing Page
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
+This is a solution to the [Manage Landing Page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+
+
+![Design preview for the Manage landing page coding challenge](./design/desktop-preview.jpg)
+
+
+### Links
+
+- [Solution URL](https://github.com/emmanuel39hanks/manage-landing-page)
+- [View live site URL](https:://manage-landing-page-omega-two.vercel.app)
+
+### Built with
+
+- Angular
+- TailwindCSS
+
+## Author
+
+- Frontend Mentor - [emmanuel39hanks](https://www.frontendmentor.io/profile/emmanuel39hanks)
+- Twitter - [@apradeepreddy9](https://www.twitter.com/emmanuel_haanks)
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
