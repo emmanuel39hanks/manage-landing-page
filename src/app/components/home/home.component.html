@@ -15,6 +15,26 @@
       class="hidden md:block p-3 px-6 text-white bg-brightRed rounded-full font-bold baseline hover:bg-brightRedLight"
       >Get Started</a
     >
+    <div (click)="handleNav()" class="block md:hidden">
+      <div *ngIf="nav" class="cursor-pointer">
+        <img src="assets/img/icon-hamburger.svg" alt="hamburger icon" />
+      </div>
+      <div *ngIf="!nav" class="cursor-pointer">
+        <img src="assets/img/icon-close.svg" alt="close icon" />
+      </div>
+    </div>
+  </div>
+
+  <div *ngIf="!nav" class="md:hidden">
+    <div
+      class="flex flex-col absolute items-center self-end py-8 mt-10 space-y-6 font-bold bg-white sm:w-auto sm:self-center left-6 right-6 drop-shadow-lg md:hidden rounded-lg"
+    >
+      <a href="#" class="hover:text-darkGrayishBlue">Pricing</a>
+      <a href="#" class="hover:text-darkGrayishBlue">Product</a>
+      <a href="#" class="hover:text-darkGrayishBlue">About Us</a>
+      <a href="#" class="hover:text-darkGrayishBlue">Careers</a>
+      <a href="#" class="hover:text-darkGrayishBlue">Community</a>
+    </div>
   </div>
 </nav>
 
