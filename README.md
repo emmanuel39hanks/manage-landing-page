@@ -19,7 +19,7 @@ This is a solution to the [Manage Landing Page challenge on Frontend Mentor](htt
 ## Author
 
 - Frontend Mentor - [emmanuel39hanks](https://www.frontendmentor.io/profile/emmanuel39hanks)
-- Twitter - [@apradeepreddy9](https://www.twitter.com/emmanuel_haanks)
+- Twitter - [@emmanuel39hanks](https://www.twitter.com/emmanuel_haanks)
 
 ## Development server
 
